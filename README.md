@@ -53,4 +53,4 @@ Wyświetlanie jest stronnicowane, zaimplementowane zostało również sortowanie
 ## Autorzy
 
 * **Bartłomiej Trawiński** - [github](https://github.com/bartraw23) - [linkedin](https://www.linkedin.com/in/bart%C5%82omiej-trawinski/)
-* **Jakub Cichacki** - [github](https://github.com/jakubcichacki)
+* **Jakub Cichacki** - [github](https://github.com/jakubcichacki) - [linkedin](https://www.linkedin.com/in/jakub-cichacki/)
